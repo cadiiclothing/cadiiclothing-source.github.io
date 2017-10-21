@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "displayName": "Trang chủ",
+    "path": "/trang-chu",
+    "parentId": null,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 2,
+    "displayName": "Giới thiệu",
+    "path": "/gioi-thieu",
+    "parentId": null,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 3,
+    "displayName": "Sản phẩm",
+    "path": "/san-pham",
+    "parentId": null,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 4,
+    "displayName": "Thông tin liên hệ",
+    "path": "/thong-tin-lien-he",
+    "parentId": null,
+    "nativeId": null,
+    "index": 4
+  },
+  {
+    "id": 5,
+    "displayName": "Sơ mi - Nam",
+    "path": "/so-mi-nam",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 6,
+    "displayName": "Sơ mi - Nữ",
+    "path": "/so-mi-nu",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 7,
+    "displayName": "Áo",
+    "path": "/ao",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 8,
+    "displayName": "Đầm",
+    "path": "/dam",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 4
+  },
+  {
+    "id": 9,
+    "displayName": "Váy",
+    "path": "/vay",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 5
+  },
+  {
+    "id": 10,
+    "displayName": "Quần",
+    "path": "/quan",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 6
+  },
+  {
+    "id": 11,
+    "displayName": "Chi nhánh",
+    "path": "/chi-nhanh",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 12,
+    "displayName": "Bản đồ",
+    "path": "/ban-do",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 13,
+    "displayName": "Liên hệ",
+    "path": "/quan",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 14,
+    "displayName": "Sự kiện",
+    "path": "/su-kien",
+    "parentId": null,
+    "nativeId": null,
+    "index": 1
+  }
+]

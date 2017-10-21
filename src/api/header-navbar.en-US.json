@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "displayName": "Home",
+    "path": "/home",
+    "parentId": null,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 2,
+    "displayName": "About Us",
+    "path": "/about-us",
+    "parentId": null,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 3,
+    "displayName": "Product",
+    "path": "/product",
+    "parentId": null,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 4,
+    "displayName": "Contact",
+    "path": "/contact",
+    "parentId": null,
+    "nativeId": null,
+    "index": 4
+  },
+  {
+    "id": 5,
+    "displayName": "Shirt for Man",
+    "path": "/shirt-for-man",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 6,
+    "displayName": "Shirt for Woman",
+    "path": "/shirt-for-woman",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 7,
+    "displayName": "Shirt",
+    "path": "/shirt",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 8,
+    "displayName": "Dress",
+    "path": "/dress",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 4
+  },
+  {
+    "id": 9,
+    "displayName": "Skirt",
+    "path": "/skirt",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 5
+  },
+  {
+    "id": 10,
+    "displayName": "Pant",
+    "path": "/pant",
+    "parentId": 3,
+    "nativeId": null,
+    "index": 6
+  },
+  {
+    "id": 11,
+    "displayName": "Branches",
+    "path": "/branches",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 1
+  },
+  {
+    "id": 12,
+    "displayName": "Map",
+    "path": "/map",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 2
+  },
+  {
+    "id": 13,
+    "displayName": "Contact information",
+    "path": "/contact-information",
+    "parentId": 4,
+    "nativeId": null,
+    "index": 3
+  },
+  {
+    "id": 14,
+    "displayName": "Events",
+    "path": "/events",
+    "parentId": null,
+    "nativeId": null,
+    "index": 1
+  }
+]
